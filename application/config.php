@@ -1,12 +1,8 @@
 <?php
 
-/*
- * Author: Louie Zhu
- * Date: Jan 22, 2016
- * File: config.php
- * Description: set application settings
- * 
- */
+
+ //Description: set application settings
+
 
 //local time zone
 date_default_timezone_set('America/New_York');
