@@ -1,13 +1,7 @@
 <?php
 
-/*
- * Author: Louie Zhu
- * Date: Jan 22, 2016
- * File: database,class.php
- * Description: the Database class sets parameters for connecting to the MySQL server and 
- *       methods that return the connection object and table names.
- * 
- */
+ // Description: the Database class sets parameters for connecting to the MySQL server and methods that return the connection object and table names.
+ 
 
 class Database {
 
