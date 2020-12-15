@@ -1,11 +1,7 @@
 <?php
 
-/*
- * Author: Louie Zhu
- * Date: Dec 16, 2014
- * File: show_error.php
- * Description: this script displays an error message.
- */
+//Description: this script displays an error message.
+
 require_once 'application/app_view.class.php';
 
 class ShowError {
