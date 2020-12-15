@@ -46,7 +46,7 @@ class AppView {
                     <br><br><br>
                     <div id="push"></div>
                 </div>
-                <div id="footer"><br>&copy 2015 Kung Fu Panda Media Library. All Rights Reserved.</div>
+                <div id="footer"><br>&copy 2018 Kung Fu Panda Media Library. All Rights Reserved.</div>
             </body>
         </html>
         <?php
