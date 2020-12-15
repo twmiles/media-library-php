@@ -1,4 +1,5 @@
 <?php
+//Description: the class defines two static methods for creating page header and footer.
 
 //load configuration file
 require_once 'application/config.php';
