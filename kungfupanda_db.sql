@@ -3,7 +3,6 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: mysql.iu.edu:3704
--- Generation Time: Jan 06, 2016 at 05:13 PM
 -- Server version: 5.0.83
 -- PHP Version: 5.6.15
 
